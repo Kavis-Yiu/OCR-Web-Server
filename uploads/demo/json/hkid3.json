@@ -1,0 +1,84 @@
+{
+	"language": "en",
+	"orientation": "Up",
+	"textAngle": 0,
+	"regions": [
+		{
+			"boundingBox": "21,77,81,17",
+			"lines": [
+				{
+					"boundingBox": "21,77,81,17",
+					"words": [
+						{
+							"boundingBox": "21,77,31,17",
+							"text": "LO,"
+						},
+						{
+							"boundingBox": "68,77,34,14",
+							"text": "Hon"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "145,106,119,172",
+			"lines": [
+				{
+					"boundingBox": "151,106,102,15",
+					"words": [
+						{
+							"boundingBox": "151,106,43,15",
+							"text": "4151"
+						},
+						{
+							"boundingBox": "210,106,43,15",
+							"text": "3352"
+						}
+					]
+				},
+				{
+					"boundingBox": "152,167,112,15",
+					"words": [
+						{
+							"boundingBox": "152,167,112,15",
+							"text": "06-07-1954"
+						}
+					]
+				},
+				{
+					"boundingBox": "145,226,82,19",
+					"words": [
+						{
+							"boundingBox": "145,226,82,19",
+							"text": "'(01-93)"
+						}
+					]
+				},
+				{
+					"boundingBox": "153,259,108,19",
+					"words": [
+						{
+							"boundingBox": "153,259,108,19",
+							"text": "24-06-05"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "318,258,130,17",
+			"lines": [
+				{
+					"boundingBox": "318,258,130,17",
+					"words": [
+						{
+							"boundingBox": "318,258,130,17",
+							"text": "P231187(2)"
+						}
+					]
+				}
+			]
+		}
+	]
+}

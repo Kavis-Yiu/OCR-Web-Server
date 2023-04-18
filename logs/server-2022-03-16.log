@@ -1,0 +1,113 @@
+12:17:18.927 INFO  Started - https://127.0.0.1:8443 
+12:17:49.123 INFO  Started - https://127.0.0.1:8443 
+12:20:31.082 ERROR Cannot find module './controllers/allowCorsHeader'
+Require stack:
+- C:\Users\Nobita\Documents\OCR-API-Server\routes\index.js
+- C:\Users\Nobita\Documents\OCR-API-Server\app.js
+{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Nobita\\Documents\\OCR-API-Server\\routes\\index.js","C:\\Users\\Nobita\\Documents\\OCR-API-Server\\app.js"]}
+Error: Cannot find module './controllers/allowCorsHeader'
+Require stack:
+- C:\Users\Nobita\Documents\OCR-API-Server\routes\index.js
+- C:\Users\Nobita\Documents\OCR-API-Server\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:687:27)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\Nobita\Documents\OCR-API-Server\routes\index.js:11:12)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)uncaughtException 
+12:22:32.228 ERROR Cannot find module './controllers/allowCorsHeader'
+Require stack:
+- C:\Users\Nobita\Documents\OCR-API-Server\routes\index.js
+- C:\Users\Nobita\Documents\OCR-API-Server\app.js
+{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Nobita\\Documents\\OCR-API-Server\\routes\\index.js","C:\\Users\\Nobita\\Documents\\OCR-API-Server\\app.js"]}
+Error: Cannot find module './controllers/allowCorsHeader'
+Require stack:
+- C:\Users\Nobita\Documents\OCR-API-Server\routes\index.js
+- C:\Users\Nobita\Documents\OCR-API-Server\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:687:27)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\Nobita\Documents\OCR-API-Server\routes\index.js:11:12)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)uncaughtException 
+12:24:20.136 INFO  Started - https://127.0.0.1:8443 
+12:24:43.454 INFO  Started - https://127.0.0.1:8443 
+12:26:33.606 INFO  Started - https://127.0.0.1:8443 
+12:28:54.804 INFO  Started - https://127.0.0.1:8443 
+12:29:22.585 INFO  GET /ocr/v1/hkid 
+12:29:22.586 INFO  RESPONSE 204 - undefined 
+12:29:24.389 INFO  GET /ocr/v1/hkid 
+12:29:24.389 INFO  RESPONSE 204 - undefined 
+12:30:05.678 INFO  GET /ocr/v1/hkid 
+12:30:05.678 INFO  RESPONSE 204 - undefined 
+12:30:10.046 INFO  GET /ocr/v1/hkid 
+12:30:10.046 INFO  RESPONSE 204 - undefined 
+12:31:19.981 INFO  GET /ocr/v1/hkid 
+12:31:19.982 INFO  RESPONSE 204 - undefined 
+12:31:34.511 INFO  GET /ocr/v1/hkid 
+12:31:34.511 INFO  RESPONSE 204 - undefined 
+12:31:52.982 INFO  Started - https://127.0.0.1:8443 
+12:31:56.482 INFO  OPTIONS /ocr/v1/hkid 
+12:31:56.482 INFO  RESPONSE 204 - Pre-Flight Response OK 
+12:34:53.379 INFO  Started - https://127.0.0.1:8443 
+12:35:13.707 INFO  Started - https://127.0.0.1:8443 
+12:35:43.565 INFO  Started - https://127.0.0.1:8443 
+12:35:48.991 INFO  OPTIONS /ocr/v1/hkid 
+12:35:48.991 INFO  RESPONSE 204 - Pre-Flight Response OK 
+12:35:56.390 INFO  OPTIONS /ocr/v1/hkid 
+12:35:56.390 INFO  RESPONSE 204 - Pre-Flight Response OK 
+12:35:56.419 INFO  GET /ocr/v1/hkid 
+12:35:56.419 INFO  RESPONSE 405 - {"err":-11,"msg":"Method not allow"} 
+12:36:03.078 INFO  OPTIONS /ocr/v1/hkid 
+12:36:03.078 INFO  RESPONSE 204 - Pre-Flight Response OK 
+12:36:03.090 INFO  POST /ocr/v1/hkid 
+12:36:03.090 INFO  RESPONSE 405 - {"err":-11,"msg":"Method not allow"} 
+12:36:15.800 INFO  OPTIONS /ocr/v1/hkid 
+12:36:15.800 INFO  RESPONSE 204 - Pre-Flight Response OK 
+12:36:15.810 INFO  GET /ocr/v1/hkid 
+12:36:15.810 INFO  RESPONSE 405 - {"err":-11,"msg":"Method not allow"} 
+12:36:19.616 INFO  OPTIONS /ocr/v1/hkid 
+12:36:19.616 INFO  RESPONSE 204 - Pre-Flight Response OK 
+12:36:19.625 INFO  POST /ocr/v1/hkid 
+12:36:19.625 INFO  RESPONSE 405 - {"err":-11,"msg":"Method not allow"} 
+12:36:22.046 INFO  OPTIONS /ocr/v1/hkid 
+12:36:22.046 INFO  RESPONSE 204 - Pre-Flight Response OK 
+12:37:02.716 INFO  GET /ocr/v1/hkid 
+12:37:02.716 INFO  RESPONSE 405 - {"err":-11,"msg":"Method not allow"} 
+12:37:02.820 INFO  GET /favicon.ico 
+12:37:02.820 INFO  RESPONSE 404 - {"err":-10,"msg":"Invalid API path"} 
+12:37:07.394 INFO  GET /ocr/v1/kjh 
+12:37:07.394 INFO  RESPONSE 404 - {"err":-10,"msg":"Invalid API path"} 
+12:49:33.068 INFO  Started - https://127.0.0.1:8443 
+12:49:36.048 INFO  OPTIONS /ocr/v1/hkid 
+12:49:36.048 INFO  RESPONSE 204 - Pre-Flight Response OK 
+12:50:25.691 INFO  Started - https://127.0.0.1:8443 
+12:50:30.075 INFO  OPTIONS /ocr/v1/hkid 
+12:50:30.076 INFO  RESPONSE 204 - Pre-Flight Response OK 
+12:53:01.721 INFO  Started - https://127.0.0.1:8443 
+12:53:04.601 INFO  OPTIONS /ocr/v1/hkid 
+12:53:04.601 INFO  RESPONSE 204 - Pre-Flight Response OK 
+13:03:45.446 INFO  Started - https://127.0.0.1:8443 
+13:03:56.266 INFO  OPTIONS /ocr/v1/hkid 
+13:03:56.266 INFO  RESPONSE 204 - Pre-Flight Response OK 
+13:03:56.755 ERROR TypeError: require(...).hget is not a function
+    at module.exports (C:\Users\Nobita\Documents\OCR-API-Server\controllers\tokenVerifier.js:4:27)
+    at Layer.handle [as handle_request] (C:\Users\Nobita\Documents\OCR-API-Server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Nobita\Documents\OCR-API-Server\node_modules\express\lib\router\route.js:137:13)
+    at module.exports (C:\Users\Nobita\Documents\OCR-API-Server\controllers\tokenValidator.js:22:2)
+    at Layer.handle [as handle_request] (C:\Users\Nobita\Documents\OCR-API-Server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Nobita\Documents\OCR-API-Server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Nobita\Documents\OCR-API-Server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Nobita\Documents\OCR-API-Server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Nobita\Documents\OCR-API-Server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Nobita\Documents\OCR-API-Server\node_modules\express\lib\router\index.js:341:12) 
+13:03:56.757 INFO  POST /ocr/v1/hkid {"token":"8e35c2cd3bf6641bdb0e2050b76932cbb2e6034a0ddacc1d9bea82a6ba57f7cf"} 
+13:03:56.757 INFO  RESPONSE 503 - {"err":-1,"msg":"Something went wrong, please contact our IT"} 

@@ -1,0 +1,341 @@
+{
+	"language": "en",
+	"orientation": "Up",
+	"textAngle": 0,
+	"regions": [
+		{
+			"boundingBox": "472,953,728,557",
+			"lines": [
+				{
+					"boundingBox": "477,953,271,35",
+					"words": [
+						{
+							"boundingBox": "477,953,271,35",
+							"text": "012-345-678"
+						}
+					]
+				},
+				{
+					"boundingBox": "522,1009,589,62",
+					"words": [
+						{
+							"boundingBox": "522,1009,176,61",
+							"text": "HREE"
+						},
+						{
+							"boundingBox": "751,1009,130,62",
+							"text": "CAN"
+						},
+						{
+							"boundingBox": "936,1009,175,62",
+							"text": "KANS"
+						}
+					]
+				},
+				{
+					"boundingBox": "476,1225,665,69",
+					"words": [
+						{
+							"boundingBox": "476,1229,84,62",
+							"text": "RM"
+						},
+						{
+							"boundingBox": "615,1229,37,62",
+							"text": "E"
+						},
+						{
+							"boundingBox": "705,1225,176,69",
+							"text": "99/F"
+						},
+						{
+							"boundingBox": "934,1229,132,62",
+							"text": "BLK"
+						},
+						{
+							"boundingBox": "1121,1228,20,62",
+							"text": "I"
+						}
+					]
+				},
+				{
+					"boundingBox": "472,1292,591,108",
+					"words": [
+						{
+							"boundingBox": "472,1292,179,108",
+							"text": "IHONG"
+						},
+						{
+							"boundingBox": "704,1337,176,63",
+							"text": "SING"
+						},
+						{
+							"boundingBox": "933,1337,130,63",
+							"text": "GDN"
+						}
+					]
+				},
+				{
+					"boundingBox": "521,1447,679,63",
+					"words": [
+						{
+							"boundingBox": "521,1447,221,63",
+							"text": "SEIJNG"
+						},
+						{
+							"boundingBox": "797,1447,174,63",
+							"text": "KWAN"
+						},
+						{
+							"boundingBox": "1024,1447,40,63",
+							"text": "O"
+						},
+						{
+							"boundingBox": "1116,1448,84,62",
+							"text": "NT"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "2040,2503,240,522",
+			"lines": [
+				{
+					"boundingBox": "2040,2503,231,54",
+					"words": [
+						{
+							"boundingBox": "2040,2503,231,54",
+							"text": "2,647.88"
+						}
+					]
+				},
+				{
+					"boundingBox": "2049,2617,231,55",
+					"words": [
+						{
+							"boundingBox": "2049,2617,231,55",
+							"text": "2,647.88"
+						}
+					]
+				},
+				{
+					"boundingBox": "2158,2794,113,46",
+					"words": [
+						{
+							"boundingBox": "2158,2794,113,46",
+							"text": "0.00"
+						}
+					]
+				},
+				{
+					"boundingBox": "2041,2971,230,54",
+					"words": [
+						{
+							"boundingBox": "2041,2971,230,54",
+							"text": "5,435.02"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "2791,2503,270,522",
+			"lines": [
+				{
+					"boundingBox": "2821,2503,231,54",
+					"words": [
+						{
+							"boundingBox": "2821,2503,231,54",
+							"text": "9,247.55"
+						}
+					]
+				},
+				{
+					"boundingBox": "2830,2617,231,55",
+					"words": [
+						{
+							"boundingBox": "2830,2617,231,55",
+							"text": "9,247.55"
+						}
+					]
+				},
+				{
+					"boundingBox": "2821,2794,230,54",
+					"words": [
+						{
+							"boundingBox": "2821,2794,230,54",
+							"text": "9,537.64"
+						}
+					]
+				},
+				{
+					"boundingBox": "2791,2971,260,54",
+					"words": [
+						{
+							"boundingBox": "2791,2971,260,54",
+							"text": "12,304.83"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "3743,3529,150,48",
+			"lines": [
+				{
+					"boundingBox": "3743,3529,150,48",
+					"words": [
+						{
+							"boundingBox": "3743,3529,150,48",
+							"text": "1000/0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "2577,4495,635,2275",
+			"lines": [
+				{
+					"boundingBox": "2577,4495,121,47",
+					"words": [
+						{
+							"boundingBox": "2577,4495,121,47",
+							"text": "USD"
+						}
+					]
+				},
+				{
+					"boundingBox": "2677,6711,535,59",
+					"words": [
+						{
+							"boundingBox": "2677,6749,9,8",
+							"text": "."
+						},
+						{
+							"boundingBox": "2731,6711,141,59",
+							"text": "(852)"
+						},
+						{
+							"boundingBox": "2907,6712,135,46",
+							"text": "3988"
+						},
+						{
+							"boundingBox": "3077,6712,135,46",
+							"text": "2388"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "3406,4496,113,46",
+			"lines": [
+				{
+					"boundingBox": "3406,4496,113,46",
+					"words": [
+						{
+							"boundingBox": "3406,4496,113,46",
+							"text": "0.00"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "4038,141,685,6735",
+			"lines": [
+				{
+					"boundingBox": "4038,141,685,167",
+					"words": [
+						{
+							"boundingBox": "4038,141,685,167",
+							"text": ";-fi-egæ"
+						}
+					]
+				},
+				{
+					"boundingBox": "4415,1247,298,47",
+					"words": [
+						{
+							"boundingBox": "4415,1247,298,47",
+							"text": "2017/11/30"
+						}
+					]
+				},
+				{
+					"boundingBox": "4637,1361,76,47",
+					"words": [
+						{
+							"boundingBox": "4637,1361,76,47",
+							"text": "1/3"
+						}
+					]
+				},
+				{
+					"boundingBox": "4456,4277,231,54",
+					"words": [
+						{
+							"boundingBox": "4456,4277,231,54",
+							"text": "9,247.55"
+						}
+					]
+				},
+				{
+					"boundingBox": "4573,4387,113,46",
+					"words": [
+						{
+							"boundingBox": "4573,4387,113,46",
+							"text": "0.00"
+						}
+					]
+				},
+				{
+					"boundingBox": "4573,4496,113,46",
+					"words": [
+						{
+							"boundingBox": "4573,4496,113,46",
+							"text": "0.00"
+						}
+					]
+				},
+				{
+					"boundingBox": "4574,4818,112,46",
+					"words": [
+						{
+							"boundingBox": "4574,4818,112,46",
+							"text": "7.50"
+						}
+					]
+				},
+				{
+					"boundingBox": "4456,4928,230,54",
+					"words": [
+						{
+							"boundingBox": "4456,4928,230,54",
+							"text": "9,530.14"
+						}
+					]
+				},
+				{
+					"boundingBox": "4267,6712,452,46",
+					"words": [
+						{
+							"boundingBox": "4267,6712,452,46",
+							"text": "www.bochk.com"
+						}
+					]
+				},
+				{
+					"boundingBox": "4446,6838,254,38",
+					"words": [
+						{
+							"boundingBox": "4446,6838,254,38",
+							"text": "1/27635C3F"
+						}
+					]
+				}
+			]
+		}
+	]
+}

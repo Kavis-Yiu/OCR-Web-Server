@@ -1,0 +1,824 @@
+{
+	"textAngle": 0,
+	"orientation": "NotDetected",
+	"language": "en",
+	"regions": [
+		{
+			"boundingBox": "136,121,54,13",
+			"lines": [
+				{
+					"boundingBox": "136,121,54,13",
+					"words": [
+						{
+							"boundingBox": "136,121,54,13",
+							"text": "Branch"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "237,120,198,14",
+			"lines": [
+				{
+					"boundingBox": "237,120,198,14",
+					"words": [
+						{
+							"boundingBox": "237,120,56,14",
+							"text": "WONG"
+						},
+						{
+							"boundingBox": "299,120,25,13",
+							"text": "TAI"
+						},
+						{
+							"boundingBox": "330,120,28,13",
+							"text": "SIN"
+						},
+						{
+							"boundingBox": "364,120,71,13",
+							"text": "BRANCH"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "594,117,206,48",
+			"lines": [
+				{
+					"boundingBox": "595,117,205,15",
+					"words": [
+						{
+							"boundingBox": "595,119,39,13",
+							"text": "Bank"
+						},
+						{
+							"boundingBox": "639,119,40,13",
+							"text": "code"
+						},
+						{
+							"boundingBox": "771,117,29,13",
+							"text": "024"
+						}
+					]
+				},
+				{
+					"boundingBox": "594,152,131,13",
+					"words": [
+						{
+							"boundingBox": "594,152,63,13",
+							"text": "Account"
+						},
+						{
+							"boundingBox": "663,152,62,12",
+							"text": "Number"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "867,117,129,45",
+			"lines": [
+				{
+					"boundingBox": "882,117,96,16",
+					"words": [
+						{
+							"boundingBox": "882,117,39,16",
+							"text": "Page"
+						},
+						{
+							"boundingBox": "950,118,6,12",
+							"text": "1"
+						},
+						{
+							"boundingBox": "964,117,14,13",
+							"text": "of"
+						}
+					]
+				},
+				{
+					"boundingBox": "867,148,129,14",
+					"words": [
+						{
+							"boundingBox": "867,148,35,13",
+							"text": "200-"
+						},
+						{
+							"boundingBox": "907,152,52,10",
+							"text": "987654"
+						},
+						{
+							"boundingBox": "963,149,33,13",
+							"text": "-66B"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "116,232,211,116",
+			"lines": [
+				{
+					"boundingBox": "128,232,199,13",
+					"words": [
+						{
+							"boundingBox": "128,232,26,13",
+							"text": "MR"
+						},
+						{
+							"boundingBox": "161,232,60,12",
+							"text": "YOUNG"
+						},
+						{
+							"boundingBox": "228,232,56,12",
+							"text": "THREE"
+						},
+						{
+							"boundingBox": "292,232,35,12",
+							"text": "GUY"
+						}
+					]
+				},
+				{
+					"boundingBox": "126,258,87,13",
+					"words": [
+						{
+							"boundingBox": "126,258,42,13",
+							"text": "FLAT"
+						},
+						{
+							"boundingBox": "175,259,38,12",
+							"text": "1629"
+						}
+					]
+				},
+				{
+					"boundingBox": "123,284,159,15",
+					"words": [
+						{
+							"boundingBox": "123,284,42,12",
+							"text": "CHUI"
+						},
+						{
+							"boundingBox": "171,284,43,13",
+							"text": "KING"
+						},
+						{
+							"boundingBox": "221,285,61,14",
+							"text": "HOUSE"
+						}
+					]
+				},
+				{
+					"boundingBox": "119,309,177,15",
+					"words": [
+						{
+							"boundingBox": "119,309,44,13",
+							"text": "CHOI"
+						},
+						{
+							"boundingBox": "170,310,52,13",
+							"text": "HUNG"
+						},
+						{
+							"boundingBox": "228,311,68,13",
+							"text": "ESTATE"
+						}
+					]
+				},
+				{
+					"boundingBox": "116,334,143,14",
+					"words": [
+						{
+							"boundingBox": "116,334,44,13",
+							"text": "CHOI"
+						},
+						{
+							"boundingBox": "167,336,52,12",
+							"text": "HUNG"
+						},
+						{
+							"boundingBox": "226,336,33,12",
+							"text": "KLN"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "790,386,224,16",
+			"lines": [
+				{
+					"boundingBox": "790,386,224,16",
+					"words": [
+						{
+							"boundingBox": "790,390,39,12",
+							"text": "Date"
+						},
+						{
+							"boundingBox": "893,387,74,15",
+							"text": "February"
+						},
+						{
+							"boundingBox": "972,386,42,13",
+							"text": "201B"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "83,444,906,84",
+			"lines": [
+				{
+					"boundingBox": "267,444,438,21",
+					"words": [
+						{
+							"boundingBox": "267,444,111,16",
+							"text": "Statement"
+						},
+						{
+							"boundingBox": "385,448,22,12",
+							"text": "Of"
+						},
+						{
+							"boundingBox": "412,448,48,13",
+							"text": "ATM"
+						},
+						{
+							"boundingBox": "468,448,86,17",
+							"text": "Savings"
+						},
+						{
+							"boundingBox": "561,449,91,13",
+							"text": "Account"
+						},
+						{
+							"boundingBox": "658,449,47,14",
+							"text": "ATM"
+						}
+					]
+				},
+				{
+					"boundingBox": "83,486,906,23",
+					"words": [
+						{
+							"boundingBox": "83,486,27,15",
+							"text": "TO"
+						},
+						{
+							"boundingBox": "117,486,68,16",
+							"text": "VERIFY"
+						},
+						{
+							"boundingBox": "192,488,116,16",
+							"text": "SUSPICIOUS"
+						},
+						{
+							"boundingBox": "315,489,72,16",
+							"text": "CALLER"
+						},
+						{
+							"boundingBox": "395,490,84,16",
+							"text": "IDENTITY"
+						},
+						{
+							"boundingBox": "486,491,34,15",
+							"text": "PLS"
+						},
+						{
+							"boundingBox": "526,492,38,15",
+							"text": "ASK"
+						},
+						{
+							"boundingBox": "570,492,38,15",
+							"text": "FOR"
+						},
+						{
+							"boundingBox": "615,492,55,16",
+							"text": "THEIR"
+						},
+						{
+							"boundingBox": "678,493,90,15",
+							"text": "CONTACT"
+						},
+						{
+							"boundingBox": "775,493,31,15",
+							"text": "NO."
+						},
+						{
+							"boundingBox": "814,493,12,15",
+							"text": "&"
+						},
+						{
+							"boundingBox": "832,493,47,15",
+							"text": "CALL"
+						},
+						{
+							"boundingBox": "885,493,25,15",
+							"text": "US"
+						},
+						{
+							"boundingBox": "916,493,25,16",
+							"text": "AT"
+						},
+						{
+							"boundingBox": "947,493,42,16",
+							"text": "2822"
+						}
+					]
+				},
+				{
+					"boundingBox": "85,508,429,20",
+					"words": [
+						{
+							"boundingBox": "85,508,46,16",
+							"text": "0228."
+						},
+						{
+							"boundingBox": "139,509,63,16",
+							"text": "PRESS"
+						},
+						{
+							"boundingBox": "209,510,9,15",
+							"text": "9"
+						},
+						{
+							"boundingBox": "224,510,62,16",
+							"text": "AFTER"
+						},
+						{
+							"boundingBox": "293,512,104,15",
+							"text": "LANGUAGE"
+						},
+						{
+							"boundingBox": "404,513,110,15",
+							"text": "SELECTION."
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "80,559,61,433",
+			"lines": [
+				{
+					"boundingBox": "93,559,41,15",
+					"words": [
+						{
+							"boundingBox": "93,559,41,15",
+							"text": "Date"
+						}
+					]
+				},
+				{
+					"boundingBox": "92,613,49,13",
+					"words": [
+						{
+							"boundingBox": "92,613,18,13",
+							"text": "06"
+						},
+						{
+							"boundingBox": "115,613,26,13",
+							"text": "Jan"
+						}
+					]
+				},
+				{
+					"boundingBox": "92,635,49,13",
+					"words": [
+						{
+							"boundingBox": "92,635,18,13",
+							"text": "09"
+						},
+						{
+							"boundingBox": "115,635,26,13",
+							"text": "Jan"
+						}
+					]
+				},
+				{
+					"boundingBox": "92,677,48,13",
+					"words": [
+						{
+							"boundingBox": "92,677,18,13",
+							"text": "09"
+						},
+						{
+							"boundingBox": "114,677,26,13",
+							"text": "Jan"
+						}
+					]
+				},
+				{
+					"boundingBox": "90,718,49,14",
+					"words": [
+						{
+							"boundingBox": "90,718,18,13",
+							"text": "09"
+						},
+						{
+							"boundingBox": "113,718,26,14",
+							"text": "Jan"
+						}
+					]
+				},
+				{
+					"boundingBox": "89,761,48,13",
+					"words": [
+						{
+							"boundingBox": "89,761,18,13",
+							"text": "09"
+						},
+						{
+							"boundingBox": "111,761,26,13",
+							"text": "Jan"
+						}
+					]
+				},
+				{
+					"boundingBox": "87,821,48,14",
+					"words": [
+						{
+							"boundingBox": "87,822,18,13",
+							"text": "09"
+						},
+						{
+							"boundingBox": "109,821,26,14",
+							"text": "Jan"
+						}
+					]
+				},
+				{
+					"boundingBox": "82,906,52,14",
+					"words": [
+						{
+							"boundingBox": "82,906,18,13",
+							"text": "09"
+						},
+						{
+							"boundingBox": "107,906,27,14",
+							"text": "Feb"
+						}
+					]
+				},
+				{
+					"boundingBox": "82,929,51,13",
+					"words": [
+						{
+							"boundingBox": "82,929,18,13",
+							"text": "09"
+						},
+						{
+							"boundingBox": "106,929,27,13",
+							"text": "Feb"
+						}
+					]
+				},
+				{
+					"boundingBox": "80,978,52,14",
+					"words": [
+						{
+							"boundingBox": "80,978,18,13",
+							"text": "09"
+						},
+						{
+							"boundingBox": "104,979,28,13",
+							"text": "Feb"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "152,560,314,509",
+			"lines": [
+				{
+					"boundingBox": "168,560,176,17",
+					"words": [
+						{
+							"boundingBox": "168,560,108,16",
+							"text": "Transaction"
+						},
+						{
+							"boundingBox": "284,562,60,15",
+							"text": "Details"
+						}
+					]
+				},
+				{
+					"boundingBox": "165,613,87,14",
+					"words": [
+						{
+							"boundingBox": "165,613,24,14",
+							"text": "B/F"
+						},
+						{
+							"boundingBox": "195,614,57,13",
+							"text": "Balance"
+						}
+					]
+				},
+				{
+					"boundingBox": "164,635,128,15",
+					"words": [
+						{
+							"boundingBox": "164,635,38,13",
+							"text": "QDM"
+						},
+						{
+							"boundingBox": "208,636,45,13",
+							"text": "CASH"
+						},
+						{
+							"boundingBox": "259,636,33,14",
+							"text": "DEP"
+						}
+					]
+				},
+				{
+					"boundingBox": "164,655,78,17",
+					"words": [
+						{
+							"boundingBox": "164,655,78,17",
+							"text": "(09JAN18)"
+						}
+					]
+				},
+				{
+					"boundingBox": "164,677,171,15",
+					"words": [
+						{
+							"boundingBox": "164,677,61,13",
+							"text": "UNITED"
+						},
+						{
+							"boundingBox": "230,678,38,13",
+							"text": "ASIA"
+						},
+						{
+							"boundingBox": "274,678,25,14",
+							"text": "FIN"
+						},
+						{
+							"boundingBox": "305,679,30,13",
+							"text": "LTD"
+						}
+					]
+				},
+				{
+					"boundingBox": "164,695,89,12",
+					"words": [
+						{
+							"boundingBox": "164,695,89,12",
+							"text": "777888999"
+						}
+					]
+				},
+				{
+					"boundingBox": "162,719,129,14",
+					"words": [
+						{
+							"boundingBox": "162,719,39,13",
+							"text": "QDM"
+						},
+						{
+							"boundingBox": "206,719,45,13",
+							"text": "CASH"
+						},
+						{
+							"boundingBox": "258,720,33,13",
+							"text": "DEP"
+						}
+					]
+				},
+				{
+					"boundingBox": "162,738,78,17",
+					"words": [
+						{
+							"boundingBox": "162,738,78,17",
+							"text": "(23JAN18)"
+						}
+					]
+				},
+				{
+					"boundingBox": "161,761,156,14",
+					"words": [
+						{
+							"boundingBox": "161,761,107,14",
+							"text": "INSTALMENT"
+						},
+						{
+							"boundingBox": "273,761,44,14",
+							"text": "LOAN"
+						}
+					]
+				},
+				{
+					"boundingBox": "160,780,104,14",
+					"words": [
+						{
+							"boundingBox": "160,780,104,14",
+							"text": "REPAYMENT"
+						}
+					]
+				},
+				{
+					"boundingBox": "160,799,89,12",
+					"words": [
+						{
+							"boundingBox": "160,799,89,12",
+							"text": "222333444"
+						}
+					]
+				},
+				{
+					"boundingBox": "159,821,196,15",
+					"words": [
+						{
+							"boundingBox": "159,821,22,14",
+							"text": "HS"
+						},
+						{
+							"boundingBox": "186,822,137,14",
+							"text": "55566Q12AN8WO"
+						},
+						{
+							"boundingBox": "328,822,27,14",
+							"text": "012"
+						}
+					]
+				},
+				{
+					"boundingBox": "158,841,220,15",
+					"words": [
+						{
+							"boundingBox": "158,841,62,14",
+							"text": "UNITED"
+						},
+						{
+							"boundingBox": "225,842,39,13",
+							"text": "ASIA"
+						},
+						{
+							"boundingBox": "270,842,72,13",
+							"text": "FINANCE"
+						},
+						{
+							"boundingBox": "348,842,30,14",
+							"text": "LIMI"
+						}
+					]
+				},
+				{
+					"boundingBox": "156,861,310,19",
+					"words": [
+						{
+							"boundingBox": "156,863,36,14",
+							"text": "ATM"
+						},
+						{
+							"boundingBox": "197,863,119,14",
+							"text": "WITHDRAWAL"
+						},
+						{
+							"boundingBox": "321,861,145,19",
+							"text": "(25JAN18)äqjtWN"
+						}
+					]
+				},
+				{
+					"boundingBox": "155,906,153,14",
+					"words": [
+						{
+							"boundingBox": "155,906,72,14",
+							"text": "CHEQUE"
+						},
+						{
+							"boundingBox": "234,906,74,14",
+							"text": "DEPOSIT"
+						}
+					]
+				},
+				{
+					"boundingBox": "154,929,160,14",
+					"words": [
+						{
+							"boundingBox": "154,929,36,13",
+							"text": "ATM"
+						},
+						{
+							"boundingBox": "195,929,119,14",
+							"text": "WITHDRAWAL"
+						}
+					]
+				},
+				{
+					"boundingBox": "154,949,80,17",
+					"words": [
+						{
+							"boundingBox": "154,949,80,17",
+							"text": "(02FEB18)"
+						}
+					]
+				},
+				{
+					"boundingBox": "154,978,90,14",
+					"words": [
+						{
+							"boundingBox": "154,978,26,14",
+							"text": "C/F"
+						},
+						{
+							"boundingBox": "186,979,58,13",
+							"text": "Balance"
+						}
+					]
+				},
+				{
+					"boundingBox": "152,1051,162,18",
+					"words": [
+						{
+							"boundingBox": "152,1051,86,15",
+							"text": "Transaction"
+						},
+						{
+							"boundingBox": "244,1052,70,17",
+							"text": "Summary"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "495,564,68,18",
+			"lines": [
+				{
+					"boundingBox": "495,564,68,18",
+					"words": [
+						{
+							"boundingBox": "495,564,68,18",
+							"text": "Deposit"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "663,565,100,15",
+			"lines": [
+				{
+					"boundingBox": "663,565,100,15",
+					"words": [
+						{
+							"boundingBox": "663,565,100,15",
+							"text": "Withdrawal"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "831,565,145,15",
+			"lines": [
+				{
+					"boundingBox": "831,565,145,15",
+					"words": [
+						{
+							"boundingBox": "831,566,73,14",
+							"text": "Balance"
+						},
+						{
+							"boundingBox": "911,565,15,15",
+							"text": "in"
+						},
+						{
+							"boundingBox": "934,565,42,15",
+							"text": "HKD"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "560,1403,146,22",
+			"lines": [
+				{
+					"boundingBox": "560,1403,146,22",
+					"words": [
+						{
+							"boundingBox": "560,1403,88,22",
+							"text": "Important"
+						},
+						{
+							"boundingBox": "654,1404,52,18",
+							"text": "Notes"
+						}
+					]
+				}
+			]
+		}
+	]
+}

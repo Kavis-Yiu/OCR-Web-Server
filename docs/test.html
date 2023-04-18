@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<title>Playground</title>
+	<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css"/>
+	<style>
+	* {
+		font-family:Consolas;
+	}
+	form {
+		max-width:638px;		min-width:480px;
+		margin:0 auto;
+	}
+	table {
+		width:100%;				
+	}
+	td {
+		position:relative;		
+	}
+	input[type="file"] {
+		cursor:pointer;			position:absolute;
+		left:2px;				top:2px;
+		z-index:8;				opacity:0;
+	}
+	.ui-selectmenu-button, .ui-checkboxradio-label {
+		padding:3px;			position:relative;	
+		z-index:9;
+	}
+	button.ui-button {
+		width:33%;				margin:0 0 0 .5%;
+		padding:3px 9px;
+	}
+	button.ui-button:first-child {
+		margin:0;
+	}
+	input {
+		width:100%;				box-sizing:border-box;
+	}
+	textarea {
+		width:100%;				height:200px;
+		box-sizing:border-box;
+	}
+	</style>
+</head>
+<body>
+	<form>
+		<table>
+			<tr>
+				<td>Route</td>
+				<td>
+					<select name="protocol">
+						<option value="https://" selected="selected">https://</option>
+						<option value="http://">http://</option>
+					</select><select name="hostname">
+						<option value="localhost" selected="selected">localhost</option>
+						<option value="127.0.0.1">127.0.0.1</option>
+					</select><label for="port">
+						<input type="checkbox" name="port" id="port" value=":8443" checked="checked"/>
+						<span>8443</span>&nbsp;
+					</label><select name="path">
+						<option value="/ocr/v1/hkid" selected="selected">/ocr/v1/hkid</option>
+						<option value="/ocr/v1/adde">/ocr/v1/addr</option>
+						<option value="/ocr/v1/bank">/ocr/v1/bank</option>
+						<option value="/ocr/v1/xxxx">/ocr/v1/xxxx</option>
+						<option value="/yyyy">/yyyy</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td>Token</td>
+				<td>
+					<input type="text" name="token" class="ui-widget" value="8e35c2cd3bf6641bdb0e2050b76932cbb2e6034a0ddacc1d9bea82a6ba57f7cf"/>
+				</td>
+			</tr>
+			<tr>
+				<td>Upload</td>
+				<td>
+					<input type="file" name="image" class="ui-widget"/>
+					<select name="field">
+						<option value="image" selected="selected">image</option>
+						<option value="zzzz">zzzz</option>
+						<option value="">null</option>
+					</select>
+					<i>Select file ...</i>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<button type="button" name="GET">
+						GET
+					</button><button type="button" name="POST">
+						POST
+					</button><button type="button" name="PATCH">
+						PATCH
+					</button>
+				</td>
+			</tr>
+		</table>
+		<textarea placeholder="Result wll be shown here ..."></textarea>
+	</form>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+	<script>
+	$(function() {
+		var $form = $("form");
+		
+		var $protocol = $form.find("select[name='protocol']");
+		var $hostname = $form.find("select[name='hostname']");
+		var $port = $form.find("input[name='port']");
+		var $path = $form.find("select[name='path']");
+		var $token = $form.find("input[name='token']");
+		var $field = $form.find("select[name='field']");
+		var $image = $form.find("input[type='file']");
+		var $textarea = $form.find("textarea");
+		
+		$protocol.selectmenu({
+			width:99,
+			change: function(event, ui) {
+				event = ("http://" == ui.item.value? 8080: 8443);
+				$port.val(":"+event).checkboxradio("option", "label", "<span>"+event+"</span>&nbsp;").next().html(event);
+			}
+		});
+		$hostname.selectmenu({width:108});
+		$port.checkboxradio();
+		$path.selectmenu({width:134});
+		$field.selectmenu({
+			width:72,
+			change: function(event, ui) {
+				if (ui.item.value) {
+					$image.attr("name", ui.item.value);
+				}
+			}});
+		$image.on("change", function() {
+			$(this).nextAll("i").html($(this).val()? $(this).val(): "Select file ...");
+		});
+		
+		var $botton = $("button").button();
+		
+		$botton.on("click", function() {
+			$botton.button("disable");
+			
+			const method = $(this).attr("name");
+			const url = $protocol.val() + $hostname.val() + ($port.filter(":checked").val() || "") + $path.val();
+			const formData = new FormData($form[0]), field = $field.val();
+			
+			if (field) {
+				formData.append(field, $image[0]);
+			}
+			
+			$textarea.val(method+" - "+url);
+			
+			$.ajax({
+				url: url,
+				type: method,
+				data: formData,
+				crossDomain: true,
+				contentType: false,
+				processData: false,
+				mimeType: "multipart/form-data",
+				headers: {"X-API-Key": $token.val()},
+				complete: function(xhr) {
+					$botton.button("enable");
+					$textarea.val($textarea.val() + " = "+xhr.status + "\r\n\r\n"+ xhr.responseText);
+				}
+			});
+		});
+	});
+	</script>
+</body>
+</html>

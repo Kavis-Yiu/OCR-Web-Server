@@ -1,0 +1,1353 @@
+{
+	"textAngle": 0,
+	"orientation": "NotDetected",
+	"language": "en",
+	"regions": [
+		{
+			"boundingBox": "276,342,142,34",
+			"lines": [
+				{
+					"boundingBox": "276,342,142,34",
+					"words": [
+						{
+							"boundingBox": "276,342,142,34",
+							"text": "Branch"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "548,343,353,47",
+			"lines": [
+				{
+					"boundingBox": "548,343,353,47",
+					"words": [
+						{
+							"boundingBox": "548,343,70,37",
+							"text": "PEI"
+						},
+						{
+							"boundingBox": "637,346,67,37",
+							"text": "HO"
+						},
+						{
+							"boundingBox": "721,351,180,39",
+							"text": "STREET"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "1501,331,1072,818",
+			"lines": [
+				{
+					"boundingBox": "1503,331,540,52",
+					"words": [
+						{
+							"boundingBox": "1503,347,102,36",
+							"text": "Bank"
+						},
+						{
+							"boundingBox": "1619,343,106,37",
+							"text": "Code"
+						},
+						{
+							"boundingBox": "1968,331,75,38",
+							"text": "024"
+						}
+					]
+				},
+				{
+					"boundingBox": "2224,393,349,55",
+					"words": [
+						{
+							"boundingBox": "2224,393,349,55",
+							"text": "329-222242-668"
+						}
+					]
+				},
+				{
+					"boundingBox": "1501,434,344,44",
+					"words": [
+						{
+							"boundingBox": "1501,439,166,39",
+							"text": "Account"
+						},
+						{
+							"boundingBox": "1683,434,162,38",
+							"text": "Number"
+						}
+					]
+				},
+				{
+					"boundingBox": "1971,1086,602,63",
+					"words": [
+						{
+							"boundingBox": "1971,1111,95,38",
+							"text": "Date"
+						},
+						{
+							"boundingBox": "2088,1103,128,46",
+							"text": "EIWJ:5"
+						},
+						{
+							"boundingBox": "2232,1093,221,44",
+							"text": "December"
+						},
+						{
+							"boundingBox": "2466,1086,107,39",
+							"text": "2017"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "2949,455,52,36",
+			"lines": [
+				{
+					"boundingBox": "2949,455,52,36",
+					"words": [
+						{
+							"boundingBox": "2949,455,52,36",
+							"text": "68"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "267,660,924,477",
+			"lines": [
+				{
+					"boundingBox": "270,660,364,38",
+					"words": [
+						{
+							"boundingBox": "270,660,68,35",
+							"text": "MR"
+						},
+						{
+							"boundingBox": "352,661,77,37",
+							"text": "CHI"
+						},
+						{
+							"boundingBox": "447,661,108,37",
+							"text": "SHIN"
+						},
+						{
+							"boundingBox": "575,661,59,37",
+							"text": "LO"
+						}
+					]
+				},
+				{
+					"boundingBox": "268,736,871,50",
+					"words": [
+						{
+							"boundingBox": "268,736,144,36",
+							"text": "ROOM"
+						},
+						{
+							"boundingBox": "430,738,30,35",
+							"text": "C"
+						},
+						{
+							"boundingBox": "475,740,68,34",
+							"text": "6/F"
+						},
+						{
+							"boundingBox": "560,741,67,35",
+							"text": "NO"
+						},
+						{
+							"boundingBox": "645,743,48,35",
+							"text": "38"
+						},
+						{
+							"boundingBox": "711,745,91,36",
+							"text": "FUK"
+						},
+						{
+							"boundingBox": "814,747,130,36",
+							"text": "WING"
+						},
+						{
+							"boundingBox": "960,751,179,35",
+							"text": "STREET"
+						}
+					]
+				},
+				{
+					"boundingBox": "267,812,417,42",
+					"words": [
+						{
+							"boundingBox": "267,812,313,38",
+							"text": "SHAMSHUIPO"
+						},
+						{
+							"boundingBox": "598,817,86,37",
+							"text": "KLN"
+						}
+					]
+				},
+				{
+					"boundingBox": "1071,1113,120,24",
+					"words": [
+						{
+							"boundingBox": "1071,1113,120,24",
+							"text": "0004514"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "235,1310,2246,222",
+			"lines": [
+				{
+					"boundingBox": "688,1310,1079,64",
+					"words": [
+						{
+							"boundingBox": "688,1310,277,44",
+							"text": "Statement"
+						},
+						{
+							"boundingBox": "983,1315,54,40",
+							"text": "of"
+						},
+						{
+							"boundingBox": "1050,1316,118,42",
+							"text": "ATM"
+						},
+						{
+							"boundingBox": "1189,1318,211,56",
+							"text": "Savings"
+						},
+						{
+							"boundingBox": "1415,1317,221,47",
+							"text": "Account"
+						},
+						{
+							"boundingBox": "1652,1311,115,45",
+							"text": "ATM"
+						}
+					]
+				},
+				{
+					"boundingBox": "235,1405,2246,76",
+					"words": [
+						{
+							"boundingBox": "235,1432,67,36",
+							"text": "TO"
+						},
+						{
+							"boundingBox": "317,1432,170,36",
+							"text": "VERIFY"
+						},
+						{
+							"boundingBox": "504,1432,289,37",
+							"text": "SUSPICIOUS"
+						},
+						{
+							"boundingBox": "811,1435,180,38",
+							"text": "CALLER"
+						},
+						{
+							"boundingBox": "1010,1437,210,39",
+							"text": "IDENTITY"
+						},
+						{
+							"boundingBox": "1236,1442,83,37",
+							"text": "PLS"
+						},
+						{
+							"boundingBox": "1334,1445,92,36",
+							"text": "ASK"
+						},
+						{
+							"boundingBox": "1441,1444,92,36",
+							"text": "FOR"
+						},
+						{
+							"boundingBox": "1548,1439,135,38",
+							"text": "THEIR"
+						},
+						{
+							"boundingBox": "1700,1427,223,44",
+							"text": "CONTACT"
+						},
+						{
+							"boundingBox": "1939,1424,78,38",
+							"text": "NO."
+						},
+						{
+							"boundingBox": "2038,1422,29,35",
+							"text": "&"
+						},
+						{
+							"boundingBox": "2084,1417,117,39",
+							"text": "CALL"
+						},
+						{
+							"boundingBox": "2218,1414,63,37",
+							"text": "US"
+						},
+						{
+							"boundingBox": "2296,1410,63,38",
+							"text": "AT"
+						},
+						{
+							"boundingBox": "2373,1405,108,40",
+							"text": "2822"
+						}
+					]
+				},
+				{
+					"boundingBox": "239,1487,1064,45",
+					"words": [
+						{
+							"boundingBox": "239,1488,114,36",
+							"text": "0228."
+						},
+						{
+							"boundingBox": "373,1487,156,36",
+							"text": "PRESS"
+						},
+						{
+							"boundingBox": "545,1487,24,35",
+							"text": "9"
+						},
+						{
+							"boundingBox": "583,1487,154,36",
+							"text": "AFTER"
+						},
+						{
+							"boundingBox": "754,1488,261,38",
+							"text": "LANGUAGE"
+						},
+						{
+							"boundingBox": "1032,1492,271,40",
+							"text": "SELECTION."
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "262,1613,135,367",
+			"lines": [
+				{
+					"boundingBox": "262,1613,99,36",
+					"words": [
+						{
+							"boundingBox": "262,1613,99,36",
+							"text": "Date"
+						}
+					]
+				},
+				{
+					"boundingBox": "263,1745,125,32",
+					"words": [
+						{
+							"boundingBox": "263,1746,46,31",
+							"text": "04"
+						},
+						{
+							"boundingBox": "320,1745,68,32",
+							"text": "Nov"
+						}
+					]
+				},
+				{
+					"boundingBox": "265,1800,126,32",
+					"words": [
+						{
+							"boundingBox": "265,1800,45,32",
+							"text": "06"
+						},
+						{
+							"boundingBox": "323,1800,68,32",
+							"text": "Nov"
+						}
+					]
+				},
+				{
+					"boundingBox": "271,1948,126,32",
+					"words": [
+						{
+							"boundingBox": "271,1949,45,31",
+							"text": "07"
+						},
+						{
+							"boundingBox": "328,1948,69,32",
+							"text": "Nov"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "436,1612,500,507",
+			"lines": [
+				{
+					"boundingBox": "445,1612,439,36",
+					"words": [
+						{
+							"boundingBox": "445,1612,267,36",
+							"text": "Transaction"
+						},
+						{
+							"boundingBox": "731,1612,153,36",
+							"text": "Details"
+						}
+					]
+				},
+				{
+					"boundingBox": "440,1745,216,32",
+					"words": [
+						{
+							"boundingBox": "440,1745,59,32",
+							"text": "B/F"
+						},
+						{
+							"boundingBox": "514,1745,142,32",
+							"text": "Balance"
+						}
+					]
+				},
+				{
+					"boundingBox": "440,1799,496,33",
+					"words": [
+						{
+							"boundingBox": "440,1800,85,32",
+							"text": "ATM"
+						},
+						{
+							"boundingBox": "538,1799,85,33",
+							"text": "CUP"
+						},
+						{
+							"boundingBox": "671,1799,85,33",
+							"text": "CNY"
+						},
+						{
+							"boundingBox": "813,1799,123,32",
+							"text": "600.00"
+						}
+					]
+				},
+				{
+					"boundingBox": "443,1847,454,41",
+					"words": [
+						{
+							"boundingBox": "443,1847,203,41",
+							"text": "(06NOV17)"
+						},
+						{
+							"boundingBox": "661,1847,236,41",
+							"text": "(HKD20FEE)"
+						}
+					]
+				},
+				{
+					"boundingBox": "446,1896,135,32",
+					"words": [
+						{
+							"boundingBox": "446,1896,135,32",
+							"text": "1.18161"
+						}
+					]
+				},
+				{
+					"boundingBox": "445,1947,386,33",
+					"words": [
+						{
+							"boundingBox": "445,1948,86,32",
+							"text": "ATM"
+						},
+						{
+							"boundingBox": "542,1947,289,32",
+							"text": "WITHDRAWAL"
+						}
+					]
+				},
+				{
+					"boundingBox": "448,1996,202,40",
+					"words": [
+						{
+							"boundingBox": "448,1996,202,40",
+							"text": "(07NOV17)"
+						}
+					]
+				},
+				{
+					"boundingBox": "445,2050,432,37",
+					"words": [
+						{
+							"boundingBox": "445,2050,209,30",
+							"text": "EPS123231"
+						},
+						{
+							"boundingBox": "673,2050,204,37",
+							"text": "(07NOV17)"
+						}
+					]
+				},
+				{
+					"boundingBox": "436,2094,107,25",
+					"words": [
+						{
+							"boundingBox": "436,2094,107,25",
+							"text": "HKJC"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "1668,1606,247,43",
+			"lines": [
+				{
+					"boundingBox": "1668,1606,247,43",
+					"words": [
+						{
+							"boundingBox": "1668,1606,247,43",
+							"text": "Withdrawal"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "2087,1590,358,46",
+			"lines": [
+				{
+					"boundingBox": "2087,1590,358,46",
+					"words": [
+						{
+							"boundingBox": "2087,1599,182,37",
+							"text": "Balance"
+						},
+						{
+							"boundingBox": "2287,1594,38,36",
+							"text": "in"
+						},
+						{
+							"boundingBox": "2345,1590,100,38",
+							"text": "HKD"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "1259,1618,166,45",
+			"lines": [
+				{
+					"boundingBox": "1259,1618,166,45",
+					"words": [
+						{
+							"boundingBox": "1259,1618,166,45",
+							"text": "Deposit"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "223,2136,757,117",
+			"lines": [
+				{
+					"boundingBox": "252,2136,603,33",
+					"words": [
+						{
+							"boundingBox": "252,2140,42,25",
+							"text": "13"
+						},
+						{
+							"boundingBox": "303,2139,74,26",
+							"text": "Nov"
+						},
+						{
+							"boundingBox": "424,2137,87,26",
+							"text": "POS"
+						},
+						{
+							"boundingBox": "525,2137,87,26",
+							"text": "CUP"
+						},
+						{
+							"boundingBox": "646,2136,209,33",
+							"text": "(12NOV17)"
+						}
+					]
+				},
+				{
+					"boundingBox": "414,2173,472,28",
+					"words": [
+						{
+							"boundingBox": "414,2175,188,26",
+							"text": "UNIONPA"
+						},
+						{
+							"boundingBox": "608,2175,28,26",
+							"text": "Y"
+						},
+						{
+							"boundingBox": "642,2173,244,27",
+							"text": "MERCHANT"
+						}
+					]
+				},
+				{
+					"boundingBox": "223,2217,757,36",
+					"words": [
+						{
+							"boundingBox": "223,2223,44,26",
+							"text": "14"
+						},
+						{
+							"boundingBox": "276,2222,76,27",
+							"text": "Nov"
+						},
+						{
+							"boundingBox": "396,2221,96,27",
+							"text": "ATM"
+						},
+						{
+							"boundingBox": "504,2219,227,28",
+							"text": "TRANSFER"
+						},
+						{
+							"boundingBox": "768,2217,212,36",
+							"text": "(14NOV17)"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "41,2309,886,1204",
+			"lines": [
+				{
+					"boundingBox": "374,2309,410,30",
+					"words": [
+						{
+							"boundingBox": "374,2311,29,28",
+							"text": "A"
+						},
+						{
+							"boundingBox": "409,2310,61,29",
+							"text": "TM"
+						},
+						{
+							"boundingBox": "482,2309,302,30",
+							"text": "WITHDRAWAL"
+						}
+					]
+				},
+				{
+					"boundingBox": "366,2354,220,39",
+					"words": [
+						{
+							"boundingBox": "366,2354,220,39",
+							"text": "(14NOV17)"
+						}
+					]
+				},
+				{
+					"boundingBox": "355,2407,414,34",
+					"words": [
+						{
+							"boundingBox": "355,2408,284,32",
+							"text": "INSTALMENT"
+						},
+						{
+							"boundingBox": "649,2407,120,34",
+							"text": "LOAN"
+						}
+					]
+				},
+				{
+					"boundingBox": "347,2456,278,34",
+					"words": [
+						{
+							"boundingBox": "347,2456,278,34",
+							"text": "REPAYMENT"
+						}
+					]
+				},
+				{
+					"boundingBox": "338,2504,368,34",
+					"words": [
+						{
+							"boundingBox": "338,2504,368,34",
+							"text": "024024042042042"
+						}
+					]
+				},
+				{
+					"boundingBox": "140,2560,693,45",
+					"words": [
+						{
+							"boundingBox": "140,2560,48,34",
+							"text": "15"
+						},
+						{
+							"boundingBox": "200,2560,77,35",
+							"text": "Nov"
+						},
+						{
+							"boundingBox": "330,2561,206,35",
+							"text": "PROMISE"
+						},
+						{
+							"boundingBox": "549,2561,47,44",
+							"text": "(H"
+						},
+						{
+							"boundingBox": "610,2562,42,43",
+							"text": "K)"
+						},
+						{
+							"boundingBox": "668,2561,66,35",
+							"text": "CO"
+						},
+						{
+							"boundingBox": "749,2561,84,35",
+							"text": "LTD"
+						}
+					]
+				},
+				{
+					"boundingBox": "325,2612,194,37",
+					"words": [
+						{
+							"boundingBox": "325,2612,194,37",
+							"text": "18181888"
+						}
+					]
+				},
+				{
+					"boundingBox": "118,2673,625,38",
+					"words": [
+						{
+							"boundingBox": "118,2673,45,36",
+							"text": "21"
+						},
+						{
+							"boundingBox": "181,2674,80,36",
+							"text": "Nov"
+						},
+						{
+							"boundingBox": "311,2674,100,36",
+							"text": "ATM"
+						},
+						{
+							"boundingBox": "423,2675,320,36",
+							"text": "WITHDRAWAL"
+						}
+					]
+				},
+				{
+					"boundingBox": "309,2728,228,49",
+					"words": [
+						{
+							"boundingBox": "309,2728,57,46",
+							"text": "(21"
+						},
+						{
+							"boundingBox": "375,2729,162,48",
+							"text": "NOV17)"
+						}
+					]
+				},
+				{
+					"boundingBox": "102,2792,616,39",
+					"words": [
+						{
+							"boundingBox": "102,2792,54,36",
+							"text": "29"
+						},
+						{
+							"boundingBox": "168,2792,80,36",
+							"text": "Nov"
+						},
+						{
+							"boundingBox": "303,2793,172,37",
+							"text": "CREDIT"
+						},
+						{
+							"boundingBox": "489,2793,229,38",
+							"text": "INTEREST"
+						}
+					]
+				},
+				{
+					"boundingBox": "96,2854,831,49",
+					"words": [
+						{
+							"boundingBox": "96,2854,53,37",
+							"text": "30"
+						},
+						{
+							"boundingBox": "161,2854,82,36",
+							"text": "Nov"
+						},
+						{
+							"boundingBox": "293,2855,101,37",
+							"text": "ATM"
+						},
+						{
+							"boundingBox": "408,2855,247,37",
+							"text": "TRANSFER"
+						},
+						{
+							"boundingBox": "696,2856,231,47",
+							"text": "(30NOV17)"
+						}
+					]
+				},
+				{
+					"boundingBox": "78,2973,787,42",
+					"words": [
+						{
+							"boundingBox": "78,2973,148,40",
+							"text": "04Dec"
+						},
+						{
+							"boundingBox": "283,2974,150,39",
+							"text": "QUICK"
+						},
+						{
+							"boundingBox": "445,2975,198,39",
+							"text": "CHEQUE"
+						},
+						{
+							"boundingBox": "661,2977,204,38",
+							"text": "DEPOSIT"
+						}
+					]
+				},
+				{
+					"boundingBox": "275,3031,232,50",
+					"words": [
+						{
+							"boundingBox": "275,3031,232,50",
+							"text": "(04DEC17)"
+						}
+					]
+				},
+				{
+					"boundingBox": "269,3098,496,51",
+					"words": [
+						{
+							"boundingBox": "269,3098,249,40",
+							"text": "EPS959595"
+						},
+						{
+							"boundingBox": "533,3099,232,50",
+							"text": "(02DEC17)"
+						}
+					]
+				},
+				{
+					"boundingBox": "41,3244,471,43",
+					"words": [
+						{
+							"boundingBox": "41,3246,154,41",
+							"text": ".05Dec"
+						},
+						{
+							"boundingBox": "254,3244,76,41",
+							"text": "C/F"
+						},
+						{
+							"boundingBox": "344,3244,168,39",
+							"text": "Balance"
+						}
+					]
+				},
+				{
+					"boundingBox": "237,3462,467,51",
+					"words": [
+						{
+							"boundingBox": "237,3463,248,42",
+							"text": "Transaction"
+						},
+						{
+							"boundingBox": "501,3462,203,51",
+							"text": "Summary"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "971,2722,92,46",
+			"lines": [
+				{
+					"boundingBox": "971,2722,92,46",
+					"words": [
+						{
+							"boundingBox": "971,2722,92,46",
+							"text": "fÆü"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "1393,2214,356,1510",
+			"lines": [
+				{
+					"boundingBox": "1500,2214,151,32",
+					"words": [
+						{
+							"boundingBox": "1500,2214,151,32",
+							"text": "1,000.00"
+						}
+					]
+				},
+				{
+					"boundingBox": "1575,2795,86,37",
+					"words": [
+						{
+							"boundingBox": "1575,2795,86,37",
+							"text": "0.02"
+						}
+					]
+				},
+				{
+					"boundingBox": "1525,2857,136,38",
+					"words": [
+						{
+							"boundingBox": "1525,2857,136,38",
+							"text": "400.00"
+						}
+					]
+				},
+				{
+					"boundingBox": "1463,2977,198,45",
+					"words": [
+						{
+							"boundingBox": "1463,2977,198,45",
+							"text": "13,000.00"
+						}
+					]
+				},
+				{
+					"boundingBox": "1457,3450,202,46",
+					"words": [
+						{
+							"boundingBox": "1457,3450,202,46",
+							"text": "14,400.02"
+						}
+					]
+				},
+				{
+					"boundingBox": "1393,3670,356,54",
+					"words": [
+						{
+							"boundingBox": "1393,3671,214,53",
+							"text": "Important"
+						},
+						{
+							"boundingBox": "1622,3670,127,41",
+							"text": "Notes"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "1912,1788,231,1709",
+			"lines": [
+				{
+					"boundingBox": "1944,1788,124,34",
+					"words": [
+						{
+							"boundingBox": "1944,1788,124,34",
+							"text": "728.97"
+						}
+					]
+				},
+				{
+					"boundingBox": "1912,1937,157,39",
+					"words": [
+						{
+							"boundingBox": "1912,1937,157,39",
+							"text": "3,000.00"
+						}
+					]
+				},
+				{
+					"boundingBox": "1946,2040,124,32",
+					"words": [
+						{
+							"boundingBox": "1946,2040,124,32",
+							"text": "300.00"
+						}
+					]
+				},
+				{
+					"boundingBox": "1955,2129,124,25",
+					"words": [
+						{
+							"boundingBox": "1955,2129,124,25",
+							"text": "420.98"
+						}
+					]
+				},
+				{
+					"boundingBox": "1970,2306,131,30",
+					"words": [
+						{
+							"boundingBox": "1970,2306,131,30",
+							"text": "200.00"
+						}
+					]
+				},
+				{
+					"boundingBox": "1942,2407,169,39",
+					"words": [
+						{
+							"boundingBox": "1942,2407,169,39",
+							"text": "3,640.00"
+						}
+					]
+				},
+				{
+					"boundingBox": "1951,2565,170,41",
+					"words": [
+						{
+							"boundingBox": "1951,2565,170,41",
+							"text": "2,440.00"
+						}
+					]
+				},
+				{
+					"boundingBox": "1992,2681,134,37",
+					"words": [
+						{
+							"boundingBox": "1992,2681,134,37",
+							"text": "200.00"
+						}
+					]
+				},
+				{
+					"boundingBox": "2000,3103,138,39",
+					"words": [
+						{
+							"boundingBox": "2000,3103,138,39",
+							"text": "300.00"
+						}
+					]
+				},
+				{
+					"boundingBox": "1954,3451,189,46",
+					"words": [
+						{
+							"boundingBox": "1954,3451,189,46",
+							"text": "11,229.95"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "2363,1723,274,1566",
+			"lines": [
+				{
+					"boundingBox": "2366,1723,162,40",
+					"words": [
+						{
+							"boundingBox": "2366,1723,162,40",
+							"text": "9,932.18"
+						}
+					]
+				},
+				{
+					"boundingBox": "2366,1778,155,40",
+					"words": [
+						{
+							"boundingBox": "2366,1778,155,40",
+							"text": "9,203.21"
+						}
+					]
+				},
+				{
+					"boundingBox": "2363,2031,151,40",
+					"words": [
+						{
+							"boundingBox": "2363,2031,151,40",
+							"text": "5,903.21"
+						}
+					]
+				},
+				{
+					"boundingBox": "2375,2125,162,32",
+					"words": [
+						{
+							"boundingBox": "2375,2125,162,32",
+							"text": "5,482.23"
+						}
+					]
+				},
+				{
+					"boundingBox": "2419,2412,168,39",
+					"words": [
+						{
+							"boundingBox": "2419,2412,168,39",
+							"text": "2,642.23"
+						}
+					]
+				},
+				{
+					"boundingBox": "2471,2572,132,36",
+					"words": [
+						{
+							"boundingBox": "2471,2572,132,36",
+							"text": "202.23"
+						}
+					]
+				},
+				{
+					"boundingBox": "2526,2686,85,36",
+					"words": [
+						{
+							"boundingBox": "2526,2686,85,36",
+							"text": "2.23"
+						}
+					]
+				},
+				{
+					"boundingBox": "2531,2803,85,37",
+					"words": [
+						{
+							"boundingBox": "2531,2803,85,37",
+							"text": "2.25"
+						}
+					]
+				},
+				{
+					"boundingBox": "2486,2863,133,38",
+					"words": [
+						{
+							"boundingBox": "2486,2863,133,38",
+							"text": "402.25"
+						}
+					]
+				},
+				{
+					"boundingBox": "2437,3103,195,45",
+					"words": [
+						{
+							"boundingBox": "2437,3103,195,45",
+							"text": "13,102.25"
+						}
+					]
+				},
+				{
+					"boundingBox": "2441,3242,196,47",
+					"words": [
+						{
+							"boundingBox": "2441,3242,196,47",
+							"text": "13,102.25"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "604,3933,522,59",
+			"lines": [
+				{
+					"boundingBox": "604,3933,522,59",
+					"words": [
+						{
+							"boundingBox": "604,3945,113,47",
+							"text": "2822"
+						},
+						{
+							"boundingBox": "727,3943,112,47",
+							"text": "0228"
+						},
+						{
+							"boundingBox": "877,3941,17,46",
+							"text": "("
+						},
+						{
+							"boundingBox": "1109,3933,17,51",
+							"text": ")"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "1388,3768,1353,264",
+			"lines": [
+				{
+					"boundingBox": "1388,3768,1248,57",
+					"words": [
+						{
+							"boundingBox": "1388,3775,82,50",
+							"text": "Any"
+						},
+						{
+							"boundingBox": "1483,3779,119,35",
+							"text": "errors"
+						},
+						{
+							"boundingBox": "1617,3778,40,31",
+							"text": "or"
+						},
+						{
+							"boundingBox": "1670,3768,283,52",
+							"text": "discrepancies"
+						},
+						{
+							"boundingBox": "1967,3768,134,42",
+							"text": "should"
+						},
+						{
+							"boundingBox": "2117,3769,48,41",
+							"text": "be"
+						},
+						{
+							"boundingBox": "2181,3772,166,50",
+							"text": "reported"
+						},
+						{
+							"boundingBox": "2361,3771,37,42",
+							"text": "to"
+						},
+						{
+							"boundingBox": "2411,3772,63,41",
+							"text": "the"
+						},
+						{
+							"boundingBox": "2490,3770,101,41",
+							"text": "Bank"
+						},
+						{
+							"boundingBox": "2603,3769,33,42",
+							"text": "in"
+						}
+					]
+				},
+				{
+					"boundingBox": "1390,3828,1026,56",
+					"words": [
+						{
+							"boundingBox": "1390,3834,132,50",
+							"text": "writing"
+						},
+						{
+							"boundingBox": "1537,3829,116,43",
+							"text": "within"
+						},
+						{
+							"boundingBox": "1668,3829,51,41",
+							"text": "90"
+						},
+						{
+							"boundingBox": "1733,3828,95,52",
+							"text": "days"
+						},
+						{
+							"boundingBox": "1842,3828,41,42",
+							"text": "of"
+						},
+						{
+							"boundingBox": "1892,3829,64,41",
+							"text": "the"
+						},
+						{
+							"boundingBox": "1970,3829,120,42",
+							"text": "above"
+						},
+						{
+							"boundingBox": "2104,3830,201,42",
+							"text": "statement"
+						},
+						{
+							"boundingBox": "2319,3831,97,42",
+							"text": "date."
+						}
+					]
+				},
+				{
+					"boundingBox": "2024,3912,707,57",
+					"words": [
+						{
+							"boundingBox": "2024,3915,104,43",
+							"text": "2822"
+						},
+						{
+							"boundingBox": "2141,3916,104,41",
+							"text": "0228"
+						},
+						{
+							"boundingBox": "2260,3917,69,51",
+							"text": "(for"
+						},
+						{
+							"boundingBox": "2343,3915,172,54",
+							"text": "personal"
+						},
+						{
+							"boundingBox": "2530,3912,201,50",
+							"text": "customer)"
+						}
+					]
+				},
+				{
+					"boundingBox": "1390,3914,522,51",
+					"words": [
+						{
+							"boundingBox": "1390,3921,202,44",
+							"text": "Customer"
+						},
+						{
+							"boundingBox": "1606,3914,151,44",
+							"text": "Service"
+						},
+						{
+							"boundingBox": "1773,3914,139,45",
+							"text": "Hotline"
+						}
+					]
+				},
+				{
+					"boundingBox": "2025,3982,716,50",
+					"words": [
+						{
+							"boundingBox": "2025,3988,104,41",
+							"text": "2198"
+						},
+						{
+							"boundingBox": "2143,3988,103,41",
+							"text": "8000"
+						},
+						{
+							"boundingBox": "2261,3989,70,43",
+							"text": "(for"
+						},
+						{
+							"boundingBox": "2344,3987,183,43",
+							"text": "business"
+						},
+						{
+							"boundingBox": "2541,3982,200,47",
+							"text": "customer)"
+						}
+					]
+				}
+			]
+		}
+	]
+}

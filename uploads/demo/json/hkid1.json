@@ -1,0 +1,161 @@
+{
+	"language": "en",
+	"orientation": "Up",
+	"textAngle": 0,
+	"regions": [
+		{
+			"boundingBox": "53,69,338,272",
+			"lines": [
+				{
+					"boundingBox": "123,69,24,23",
+					"words": [
+						{
+							"boundingBox": "123,69,24,23",
+							"text": "fiE"
+						}
+					]
+				},
+				{
+					"boundingBox": "121,98,92,18",
+					"words": [
+						{
+							"boundingBox": "121,98,35,18",
+							"text": "Chi"
+						},
+						{
+							"boundingBox": "175,99,38,16",
+							"text": "Nan"
+						}
+					]
+				},
+				{
+					"boundingBox": "53,100,50,20",
+					"words": [
+						{
+							"boundingBox": "53,100,50,20",
+							"text": "LEE,"
+						}
+					]
+				},
+				{
+					"boundingBox": "201,130,190,19",
+					"words": [
+						{
+							"boundingBox": "201,131,51,18",
+							"text": "2621"
+						},
+						{
+							"boundingBox": "270,131,52,18",
+							"text": "2535"
+						},
+						{
+							"boundingBox": "339,130,52,18",
+							"text": "5174"
+						}
+					]
+				},
+				{
+					"boundingBox": "269,182,85,14",
+					"words": [
+						{
+							"boundingBox": "269,182,85,14",
+							"text": "DateofBirth"
+						}
+					]
+				},
+				{
+					"boundingBox": "202,205,134,17",
+					"words": [
+						{
+							"boundingBox": "202,205,134,17",
+							"text": "01-01-1968"
+						}
+					]
+				},
+				{
+					"boundingBox": "235,257,125,16",
+					"words": [
+						{
+							"boundingBox": "235,258,11,15",
+							"text": "E!"
+						},
+						{
+							"boundingBox": "270,257,33,14",
+							"text": "Date"
+						},
+						{
+							"boundingBox": "306,257,14,14",
+							"text": "of"
+						},
+						{
+							"boundingBox": "323,257,37,14",
+							"text": "Issuæ"
+						}
+					]
+				},
+				{
+					"boundingBox": "205,282,89,18",
+					"words": [
+						{
+							"boundingBox": "205,282,89,18",
+							"text": "(01-79)"
+						}
+					]
+				},
+				{
+					"boundingBox": "205,319,132,22",
+					"words": [
+						{
+							"boundingBox": "205,319,132,22",
+							"text": "15-09-03"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "407,42,163,297",
+			"lines": [
+				{
+					"boundingBox": "436,42,101,14",
+					"words": [
+						{
+							"boundingBox": "436,42,3,14",
+							"text": "I"
+						},
+						{
+							"boundingBox": "492,42,45,14",
+							"text": "ARO"
+						}
+					]
+				},
+				{
+					"boundingBox": "442,84,115,20",
+					"words": [
+						{
+							"boundingBox": "442,84,22,20",
+							"text": "*"
+						},
+						{
+							"boundingBox": "471,86,86,17",
+							"text": "SAMPLE"
+						}
+					]
+				},
+				{
+					"boundingBox": "407,316,163,23",
+					"words": [
+						{
+							"boundingBox": "407,318,115,21",
+							"text": "C668668"
+						},
+						{
+							"boundingBox": "529,316,41,22",
+							"text": "(A)"
+						}
+					]
+				}
+			]
+		}
+	]
+}

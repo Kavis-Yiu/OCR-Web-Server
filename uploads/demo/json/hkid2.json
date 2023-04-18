@@ -1,0 +1,112 @@
+{
+	"language": "en",
+	"orientation": "Up",
+	"textAngle": 0,
+	"regions": [
+		{
+			"boundingBox": "315,458,226,42",
+			"lines": [
+				{
+					"boundingBox": "315,458,226,42",
+					"words": [
+						{
+							"boundingBox": "315,458,226,42",
+							"text": "BRIQUEL,"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "583,459,664,37",
+			"lines": [
+				{
+					"boundingBox": "583,459,664,37",
+					"words": [
+						{
+							"boundingBox": "583,459,167,34",
+							"text": "Irenee"
+						},
+						{
+							"boundingBox": "787,459,289,35",
+							"text": "Constantin"
+						},
+						{
+							"boundingBox": "1112,461,135,35",
+							"text": "Henri"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "1289,464,196,33",
+			"lines": [
+				{
+					"boundingBox": "1289,464,196,33",
+					"words": [
+						{
+							"boundingBox": "1289,464,196,33",
+							"text": "Laurent"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "635,690,291,294",
+			"lines": [
+				{
+					"boundingBox": "636,690,290,37",
+					"words": [
+						{
+							"boundingBox": "636,690,290,37",
+							"text": "24-04-1984"
+						}
+					]
+				},
+				{
+					"boundingBox": "637,749,51,33",
+					"words": [
+						{
+							"boundingBox": "637,749,51,33",
+							"text": "co"
+						}
+					]
+				},
+				{
+					"boundingBox": "640,858,190,36",
+					"words": [
+						{
+							"boundingBox": "640,858,190,36",
+							"text": "(01-10)"
+						}
+					]
+				},
+				{
+					"boundingBox": "635,939,290,45",
+					"words": [
+						{
+							"boundingBox": "635,939,290,45",
+							"text": "26-01-10"
+						}
+					]
+				}
+			]
+		},
+		{
+			"boundingBox": "1075,942,351,44",
+			"lines": [
+				{
+					"boundingBox": "1075,942,351,44",
+					"words": [
+						{
+							"boundingBox": "1075,942,351,44",
+							"text": "R816865(1)"
+						}
+					]
+				}
+			]
+		}
+	]
+}
